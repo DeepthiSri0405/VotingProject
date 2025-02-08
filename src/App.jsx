@@ -1,19 +1,19 @@
-import { useState } from 'react'
 import { Routes,Route } from 'react-router-dom'
 import UserForm from './components/userForm'
 
 import './App.css'
+import Home from './components/home/Home'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <Routes>
-        <Route path='/' element={<UserForm/>}/>
+        <Route path='/' element={<Home/>}/>
+        <Route path='/getregister' element={<UserForm/>}/>
       </Routes>
     </>
   )
 }
 
-export default App
+export default App;

@@ -1,0 +1,223 @@
+[
+    {
+      "voterId": "V001",
+      "name": "Alice Johnson",
+      "phone": "9876543210",
+      "aadhar": "123456789012",
+      "address": "123 Maple St, Springfield, IL",
+      "age": 29,
+      "gender": "Female",
+      "occupation": "Teacher",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V002",
+      "name": "Bob Smith",
+      "phone": "9123456789",
+      "aadhar": "234567890123",
+      "address": "456 Oak St, Lincoln, NE",
+      "age": 35,
+      "gender": "Male",
+      "occupation": "Engineer",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V003",
+      "name": "Charlie Brown",
+      "phone": "9234567890",
+      "aadhar": "345678901234",
+      "address": "789 Pine St, Madison, WI",
+      "age": 45,
+      "gender": "Male",
+      "occupation": "Doctor",
+      "party": "Independent"
+    },
+    {
+      "voterId": "V004",
+      "name": "Diana White",
+      "phone": "9345678901",
+      "aadhar": "456789012345",
+      "address": "321 Birch St, Boise, ID",
+      "age": 31,
+      "gender": "Female",
+      "occupation": "Nurse",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V005",
+      "name": "Edward Black",
+      "phone": "9456789012",
+      "aadhar": "567890123456",
+      "address": "654 Cedar St, Tucson, AZ",
+      "age": 52,
+      "gender": "Male",
+      "occupation": "Farmer",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V006",
+      "name": "Fiona Green",
+      "phone": "9567890123",
+      "aadhar": "678901234567",
+      "address": "987 Cedar Ave, Seattle, WA",
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Engineer",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V007",
+      "name": "George Harris",
+      "phone": "9678901234",
+      "aadhar": "789012345678",
+      "address": "159 Oak St, Portland, OR",
+      "age": 39,
+      "gender": "Male",
+      "occupation": "Artist",
+      "party": "Independent"
+    },
+    {
+      "voterId": "V008",
+      "name": "Hannah Moore",
+      "phone": "9789012345",
+      "aadhar": "890123456789",
+      "address": "321 Maple St, Chicago, IL",
+      "age": 42,
+      "gender": "Female",
+      "occupation": "Scientist",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V009",
+      "name": "Isaac Lee",
+      "phone": "9890123456",
+      "aadhar": "901234567890",
+      "address": "654 Pine St, Denver, CO",
+      "age": 33,
+      "gender": "Male",
+      "occupation": "Developer",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V010",
+      "name": "Jessica Kim",
+      "phone": "9901234567",
+      "aadhar": "012345678901",
+      "address": "987 Birch St, San Francisco, CA",
+      "age": 26,
+      "gender": "Female",
+      "occupation": "Designer",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V011",
+      "name": "Kevin Allen",
+      "phone": "9123456788",
+      "aadhar": "123456789012",
+      "address": "321 Oak Ave, Los Angeles, CA",
+      "age": 38,
+      "gender": "Male",
+      "occupation": "Consultant",
+      "party": "Independent"
+    },
+    {
+      "voterId": "V012",
+      "name": "Lily Scott",
+      "phone": "9234567899",
+      "aadhar": "234567890123",
+      "address": "654 Cedar Ave, Miami, FL",
+      "age": 44,
+      "gender": "Female",
+      "occupation": "Teacher",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V013",
+      "name": "Michael Carter",
+      "phone": "9345678900",
+      "aadhar": "345678901234",
+      "address": "789 Pine St, Dallas, TX",
+      "age": 30,
+      "gender": "Male",
+      "occupation": "Writer",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V014",
+      "name": "Natalie Williams",
+      "phone": "9456789011",
+      "aadhar": "456789012345",
+      "address": "123 Maple Ave, Austin, TX",
+      "age": 29,
+      "gender": "Female",
+      "occupation": "Nurse",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V015",
+      "name": "Oliver Turner",
+      "phone": "9567890122",
+      "aadhar": "567890123456",
+      "address": "234 Oak St, New York, NY",
+      "age": 53,
+      "gender": "Male",
+      "occupation": "Attorney",
+      "party": "Independent"
+    },
+    {
+      "voterId": "V016",
+      "name": "Penny Evans",
+      "phone": "9678901233",
+      "aadhar": "678901234567",
+      "address": "345 Birch Ave, Boston, MA",
+      "age": 37,
+      "gender": "Female",
+      "occupation": "Engineer",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V017",
+      "name": "Quincy Adams",
+      "phone": "9789012344",
+      "aadhar": "789012345678",
+      "address": "456 Cedar St, San Diego, CA",
+      "age": 40,
+      "gender": "Male",
+      "occupation": "Farmer",
+      "party": "Democratic"
+    },
+    {
+      "voterId": "V018",
+      "name": "Rachel Gray",
+      "phone": "9890123455",
+      "aadhar": "890123456789",
+      "address": "567 Pine St, Atlanta, GA",
+      "age": 28,
+      "gender": "Female",
+      "occupation": "Teacher",
+      "party": "Republican"
+    },
+    {
+      "voterId": "V019",
+      "name": "Samuel Clark",
+      "phone": "9901234566",
+      "aadhar": "901234567890",
+      "address": "678 Oak St, Orlando, FL",
+      "age": 47,
+      "gender": "Male",
+      "occupation": "Doctor",
+      "party": "Independent"
+    },
+    {
+      "voterId": "V020",
+      "name": "Tina Walker",
+      "phone": "9123456790",
+      "aadhar": "012345678901",
+      "address": "789 Maple Ave, Houston, TX",
+      "age": 25,
+      "gender": "Female",
+      "occupation": "Artist",
+      "party": "Democratic"
+    }
+  ]
+  

@@ -1,10 +1,12 @@
-// Import the functions you need from the SDKs you need
+// firebaseConfig.js
+
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
+import { getAuth } from "firebase/auth";
+import { getStorage } from "firebase/storage";
 
-// Your web app's Firebase configuration
+
+// Use environment variables for security
 const firebaseConfig = {
   apiKey: "AIzaSyDYOZ-jL4_jV8f2ai45M8VjWUNOZp0pCPA",
   authDomain: "voting-project-53eb7.firebaseapp.com",
@@ -16,6 +18,14 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+
+// Firestore (Database)
 const db = getFirestore(app);
 
-export { db };
+// Authentication
+const auth = getAuth(app);
+
+// Storage (For Uploading Files, Images, etc.)
+const storage = getStorage(app);
+
+export { db, auth, storage };
